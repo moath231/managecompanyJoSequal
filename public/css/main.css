@@ -1,0 +1,16 @@
+tr{
+    border-bottom: 1px solid #ccc;
+}
+
+nav a{
+    color: #888;
+}
+
+nav a.D{
+    color: #000;
+}
+
+.active{
+    background-color: rgb(233, 230, 230);
+    color: rgb(36, 59, 71);
+}
